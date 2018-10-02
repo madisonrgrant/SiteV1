@@ -20,7 +20,7 @@ class DesignComponent extends Component {
                   checkedIcon={<ActionFavorite />}
                   uncheckedIcon={<ActionFavoriteBorder />}
                   iconStyle={{"fill":"indianred"}}
-                  label="UX-Consulting"
+                  label="Github"
                 />
               </div>
               <div className="design-checkbox">
@@ -28,7 +28,7 @@ class DesignComponent extends Component {
                 checkedIcon={<ActionFavorite />}
                 uncheckedIcon={<ActionFavoriteBorder />}
                 iconStyle={{"fill":"indianred"}}
-                label="Adobe Photoshop"
+                label="LinkedIn"
               />
             </div>
             <div className="design-checkbox">
@@ -36,24 +36,8 @@ class DesignComponent extends Component {
                 checkedIcon={<ActionFavorite />}
                 uncheckedIcon={<ActionFavoriteBorder />}
                 iconStyle={{"fill":"indianred"}}
-                label="Adobe Illustrator"
+                label="Instagram"
               />
-            </div>
-            <div className="design-checkbox">
-              <Checkbox
-                checkedIcon={<ActionFavorite />}
-                uncheckedIcon={<ActionFavoriteBorder />}
-                iconStyle={{"fill":"indianred"}}
-                label="Blender"
-              />
-          </div>
-          <div className="design-checkbox">
-            <Checkbox
-              checkedIcon={<ActionFavorite />}
-              uncheckedIcon={<ActionFavoriteBorder />}
-              iconStyle={{"fill":"indianred"}}
-              label="Digital Painting"
-            />
         </div>
 
           </div>
